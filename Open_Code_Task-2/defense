@@ -1,0 +1,8 @@
+Q1. What packet does a server normally send in rsponse to a syn?
+Ans- It send SYN_ACK packets in return
+
+Q2. Explain why a SYN Flood crashes a server (mention "HAlf_Open Connections").
+Ans- In SYN flood the attacker sends a large number of SYN packets but when server sends back SYN_ACK packets then attacker don't sends ACK packets and beacuse of it server's resources gets full and now server cant accepts new request and hence server freezes
+
+Q3. Name one defense technique againts SYN Floods (e.d.,SYN Cookies).
+Ans- Reduced SYN-RECIEVED Timer- Decreasing the time the server waits for the final attack from the client frees up resources more quickly from half-open connections
