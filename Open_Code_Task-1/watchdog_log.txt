@@ -1,0 +1,48 @@
+Network Watchdog Initialized ...
+Date_Time: {time}
+PING google.com (142.251.222.142): 56 data bytes
+64 bytes from 142.251.222.142: icmp_seq=0 ttl=112 time=70.352 ms
+64 bytes from 142.251.222.142: icmp_seq=1 ttl=112 time=129.731 ms
+64 bytes from 142.251.222.142: icmp_seq=2 ttl=112 time=103.171 ms
+64 bytes from 142.251.222.142: icmp_seq=3 ttl=112 time=155.599 ms
+64 bytes from 142.251.222.142: icmp_seq=4 ttl=112 time=230.719 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 70.352/137.914/230.719/54.340 ms
+
+Resolved IP Address of nitrkl.ac.in
+IP Address: 172.16.0.62
+THE END ......
+Network Watchdog Initialized ...
+Date_Time: {time}
+PING google.com (142.250.66.14): 56 data bytes
+64 bytes from 142.250.66.14: icmp_seq=0 ttl=112 time=59.403 ms
+64 bytes from 142.250.66.14: icmp_seq=1 ttl=112 time=176.741 ms
+64 bytes from 142.250.66.14: icmp_seq=2 ttl=112 time=91.839 ms
+64 bytes from 142.250.66.14: icmp_seq=3 ttl=112 time=80.240 ms
+64 bytes from 142.250.66.14: icmp_seq=4 ttl=112 time=78.929 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 59.403/97.430/176.741/41.001 ms
+
+Resolved IP Address of nitrkl.ac.in
+IP Address: 172.16.0.62
+THE END ......
+Network Watchdog Initialized ...
+Date_Time: {time}
+PING google.com (142.251.43.142): 56 data bytes
+64 bytes from 142.251.43.142: icmp_seq=0 ttl=112 time=205.773 ms
+64 bytes from 142.251.43.142: icmp_seq=1 ttl=112 time=82.295 ms
+64 bytes from 142.251.43.142: icmp_seq=2 ttl=112 time=178.295 ms
+64 bytes from 142.251.43.142: icmp_seq=3 ttl=112 time=131.145 ms
+64 bytes from 142.251.43.142: icmp_seq=4 ttl=112 time=56.722 ms
+
+--- google.com ping statistics ---
+5 packets transmitted, 5 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 56.722/130.846/205.773/56.066 ms
+
+Resolved IP Address of nitrkl.ac.in
+IP Address: 172.16.0.62
+THE END ......
